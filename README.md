@@ -1,45 +1,50 @@
 # About Me
 
 ## What I’m Working On
-End-to-end data platforms across Azure and Microsoft Fabric, from real-time ingestion to ML-driven analytics.
+I design and build data platforms that turn messy, heterogeneous information into clean, reliable pipelines and actionable insights.  
+My work spans **Azure**, **Microsoft Fabric**, **Python**, and early-stage **Machine Learning**.
 
-- Designing data pipelines (EventStream → KQL DB → Lakehouse Bronze/Silver/Gold → Power BI)
-- Building Machine Learning models (CatBoost, RandomForest, XGBoost) for flight-delay prediction and aeronautical performance analysis
-- Automating knowledge workflows with Flowise, AnythingLLM, LangChain and ChromaDB
-- Developing Python REST APIs (Azure Functions) for ingestion, orchestration and metadata services
-- Creating advanced Power BI dashboards with KPI layers, bookmarks, drillthrough and structured narratives
+- Architecting scalable pipelines (EventStream → KQL DB → Lakehouse Bronze/Silver/Gold → Power BI)
+- Engineering real-time ingestion for aviation and weather data  
+- Developing ML workflows (RandomForest, XGBoost, CatBoost) for delay forecasting and performance modeling  
+- Automating documentation and knowledge extraction using Flowise, LangChain and ChromaDB  
+- Building and deploying Python REST APIs with Azure Functions  
+- Creating data-driven Power BI dashboards with structured narratives, KPI layers, bookmarks and drillthrough logic  
 
 ## Collaboration Interests
-- Data Engineering and AI projects in aviation, weather analytics, or IoT
-- Document indexing and LLM agent ecosystems (Flowise, LangChain, RAG pipelines)
-- Applied ML: forecasting, anomaly detection, NLP on real-world noisy datasets
-- Cloud-native architectures on Azure, Fabric and Databricks
+- Data Engineering and Modern Data Stack implementations  
+- ML-driven analytics for aviation, mobility, IoT or environmental monitoring  
+- RAG + LLM agent ecosystems (Flowise, AnythingLLM, LangChain)  
+- Cloud-native architectures on Azure and Fabric  
+- Projects that require structured thinking, pipeline design and automation  
 
 ## Looking for Help With
-- High-frequency ML optimization and real-time inference
-- Scalable MLOps deployments in Azure (CI/CD, model governance)
-- Fine-tuning local LLMs via Docker / GPU
-- Migrating complex datasets into clean, governed Lakehouse architectures
+- Scaling ML inference and improving performance in real-time systems  
+- MLOps patterns (CI/CD, model governance, monitoring)  
+- Fine-tuning and optimizing local LLMs on GPU/Docker  
+- Designing large, governed Lakehouse architectures and metadata strategies  
 
 ## Currently Learning
-- Advanced MLOps (MLflow, CI/CD, model versioning)
-- Agent frameworks (Flowise Custom Nodes, tool-enabled reasoning)
-- Computer Vision and multimodal architectures
-- Hyperparameter optimization (Optuna, Ray Tune)
-- Fabric-native patterns (KQL DB modeling, Eventhouse architectures)
-- Machine Learning and Deep Learning at scale
+- Machine Learning and Deep Learning foundations (theoretical + applied)  
+- Advanced MLOps (MLflow, model lifecycle automation)  
+- Agent frameworks and custom Flowise toolchains  
+- Computer Vision and multimodal architectures  
+- Hyperparameter optimization (Optuna, Ray Tune)  
+- Fabric-native modeling patterns (KQL DB, Eventhouse)  
 
 ## Ask Me About
-- How to build a complete pipeline: API → Bronze → Silver → Gold → ML → Dashboard
-- Building Flowise agent ecosystems with tools, connectors and RAG logic
-- Regression and classification techniques on messy real-world datasets
-- Azure workloads (Functions, Event Hub, KQL DB, Lakehouse, Power BI)
-- Integrating local LLMs (Ollama, Mistral, Llama) into operational pipelines
+- Designing clean data pipelines end-to-end  
+- Structured approaches to regression/classification on noisy datasets  
+- Azure workloads (Functions, Event Hub, KQL DB, Lakehouse, Power BI)  
+- RAG pipelines, document indexing, agent design with Flowise  
+- Integrating local LLMs (Ollama, Mistral, Llama) into operational systems  
 
 ## Fun Facts
-- Long-time One Piece fan  
-- Ran Flowise, AnythingLLM, ChromaDB and Python pipelines concurrently in Docker  
-- I write technical narrative and dynamic scenes for role-playing games, blending symbolic language and analytical structuring
+- Data engineer by day, **One Piece fanatic** by night  
+- Obsessed with **running**, **climbing**, **role-playing games** and building systems for fun  
+- Proud **nerd**: I enjoy both optimizing SQL queries and rolling critical fails  
+- Once ran **Flowise, AnythingLLM, ChromaDB and multiple Python pipelines together in Docker**, just to see how far I could push my machine  
+
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edogood)  
